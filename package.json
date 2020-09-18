@@ -2,7 +2,7 @@
   "name": "turf",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "distancepercountry",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,14 @@
     "@turf/turf": "^5.1.6",
     "dotenv": "^8.2.0",
     "shapefile": "^0.6.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellarddekoeijer/distancepercountry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ellarddekoeijer/distancepercountry/issues"
+  },
+  "homepage": "https://github.com/Ellarddekoeijer/distancepercountry#readme"
 }
